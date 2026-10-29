@@ -1,0 +1,104 @@
+/* =========================================
+   Global Styles - Arsip Pangan Tradisional
+   ========================================= */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@700&display=swap');
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --color-primary: #c0392b;
+  --color-primary-dark: #922b21;
+  --color-primary-light: #f1948a;
+  --color-secondary: #e67e22;
+  --color-accent: #f39c12;
+  --color-bg: #fdf6f0;
+  --color-surface: #ffffff;
+  --color-text: #2c2c2c;
+  --color-text-secondary: #6b6b6b;
+  --color-border: #e8d5c4;
+  --color-tag-bg: #fde8d8;
+  --color-tag-text: #c0392b;
+
+  --font-body: 'Inter', system-ui, sans-serif;
+  --font-heading: 'Playfair Display', Georgia, serif;
+
+  --navbar-height: 64px;
+  --border-radius: 12px;
+  --border-radius-sm: 8px;
+  --shadow-sm: 0 1px 3px rgba(0,0,0,0.08);
+  --shadow-md: 0 4px 12px rgba(0,0,0,0.1);
+  --shadow-lg: 0 8px 24px rgba(0,0,0,0.12);
+  --transition: 0.2s ease;
+}
+
+html {
+  font-family: var(--font-body);
+  color: var(--color-text);
+  background-color: var(--color-bg);
+  scroll-behavior: smooth;
+}
+
+body {
+  min-height: 100vh;
+  line-height: 1.6;
+}
+
+.main-content {
+  min-height: calc(100vh - var(--navbar-height));
+  padding-top: var(--navbar-height);
+}
+
+/* =========================================
+   Typography
+   ========================================= */
+h1, h2, h3 {
+  font-family: var(--font-heading);
+  line-height: 1.2;
+}
+
+a {
+  color: var(--color-primary);
+  text-decoration: none;
+  transition: color var(--transition);
+}
+
+a:hover {
+  color: var(--color-primary-dark);
+}
+
+/* =========================================
+   Utility Classes
+   ========================================= */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+.badge {
+  display: inline-block;
+  padding: 0.2rem 0.7rem;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  background-color: var(--color-tag-bg);
+  color: var(--color-tag-text);
+}
+
+.badge--mudah  { background-color: #d4edda; color: #155724; }
+.badge--sedang { background-color: #fff3cd; color: #856404; }
+.badge--sulit  { background-color: #f8d7da; color: #721c24; }
+
+/* =========================================
+   Responsive
+   ========================================= */
+@media (max-width: 768px) {
+  .container {
+    padding: 0 1rem;
+  }
+}

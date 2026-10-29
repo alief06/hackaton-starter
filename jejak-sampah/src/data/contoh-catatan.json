@@ -1,0 +1,86 @@
+[
+  {
+    "tanggal": "2024-11-01",
+    "organik": 320,
+    "plastik": 150,
+    "kertas": 80
+  },
+  {
+    "tanggal": "2024-11-02",
+    "organik": 280,
+    "plastik": 200,
+    "kertas": 60
+  },
+  {
+    "tanggal": "2024-11-03",
+    "organik": 350,
+    "plastik": 130,
+    "kertas": 100
+  },
+  {
+    "tanggal": "2024-11-04",
+    "organik": 200,
+    "plastik": 90,
+    "kertas": 45
+  },
+  {
+    "tanggal": "2024-11-05",
+    "organik": 420,
+    "plastik": 175,
+    "kertas": 120
+  },
+  {
+    "tanggal": "2024-11-06",
+    "organik": 260,
+    "plastik": 110,
+    "kertas": 55
+  },
+  {
+    "tanggal": "2024-11-07",
+    "organik": 380,
+    "plastik": 160,
+    "kertas": 90
+  },
+  {
+    "tanggal": "2024-11-08",
+    "organik": 310,
+    "plastik": 140,
+    "kertas": 70
+  },
+  {
+    "tanggal": "2024-11-09",
+    "organik": 240,
+    "plastik": 85,
+    "kertas": 40
+  },
+  {
+    "tanggal": "2024-11-10",
+    "organik": 460,
+    "plastik": 210,
+    "kertas": 130
+  },
+  {
+    "tanggal": "2024-11-11",
+    "organik": 290,
+    "plastik": 120,
+    "kertas": 65
+  },
+  {
+    "tanggal": "2024-11-12",
+    "organik": 330,
+    "plastik": 145,
+    "kertas": 85
+  },
+  {
+    "tanggal": "2024-11-13",
+    "organik": 270,
+    "plastik": 95,
+    "kertas": 50
+  },
+  {
+    "tanggal": "2024-11-14",
+    "organik": 390,
+    "plastik": 185,
+    "kertas": 110
+  }
+]

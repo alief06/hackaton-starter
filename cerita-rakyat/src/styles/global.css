@@ -1,0 +1,104 @@
+/* =========================================
+   Global Styles - Pustaka Cerita Rakyat
+   Tema Anak: Warna Cerah, Huruf Besar, Tombol Besar
+   ========================================= */
+
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@400;600;700&family=Nunito:wght@400;600;700;800;900&display=swap');
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --color-primary: #ff5722;
+  --color-primary-hover: #e64a19;
+  --color-secondary: #ffb300;
+  --color-accent-blue: #00bcd4;
+  --color-accent-purple: #9c27b0;
+  --color-accent-green: #4caf50;
+
+  --color-bg: #fffbf0;
+  --color-surface: #ffffff;
+  --color-card-border: #ffe082;
+  --color-text: #2c3437;
+  --color-text-secondary: #5f6c72;
+
+  --font-heading: 'Fredoka', cursive, sans-serif;
+  --font-body: 'Nunito', system-ui, sans-serif;
+
+  --navbar-height: 72px;
+  --radius-lg: 24px;
+  --radius-md: 16px;
+  --radius-sm: 10px;
+
+  --shadow-card: 0 8px 20px rgba(255, 152, 0, 0.15);
+  --shadow-btn: 0 6px 0 rgba(0, 0, 0, 0.15);
+}
+
+html {
+  font-family: var(--font-body);
+  color: var(--color-text);
+  background-color: var(--color-bg);
+  font-size: 18px; /* Huruf besar untuk anak-anak */
+  scroll-behavior: smooth;
+}
+
+body {
+  min-height: 100vh;
+  line-height: 1.7;
+}
+
+.main-content {
+  min-height: calc(100vh - var(--navbar-height));
+  padding-top: var(--navbar-height);
+}
+
+h1, h2, h3, h4 {
+  font-family: var(--font-heading);
+  line-height: 1.25;
+}
+
+a {
+  color: var(--color-primary);
+  text-decoration: none;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+/* Tombol Besar Ramah Anak */
+.btn-besar {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.6rem;
+  padding: 1rem 1.8rem;
+  font-family: var(--font-heading);
+  font-size: 1.15rem;
+  font-weight: 700;
+  border-radius: var(--radius-md);
+  border: none;
+  cursor: pointer;
+  text-decoration: none;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+  box-shadow: 0 6px 0 #b33910;
+}
+
+.btn-besar:active {
+  transform: translateY(4px);
+  box-shadow: 0 2px 0 #b33910;
+}
+
+@media (max-width: 600px) {
+  html {
+    font-size: 16px;
+  }
+  .container {
+    padding: 0 1rem;
+  }
+}

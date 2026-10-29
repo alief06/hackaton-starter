@@ -1,0 +1,244 @@
+[
+  {
+    "id": "timun-mas",
+    "judul": "Petualangan Timun Mas",
+    "asal": "Jawa Tengah",
+    "ringkasan": "Ikuti petualangan Timun Mas menghadapi raksasa hijau dengan bekal keberanian dan kebaikan budi pekerti.",
+    "sampul": "🌟",
+    "tema": "Keberanian & Persahabatan",
+    "bagianAwal": "mulai",
+    "bagian": [
+      {
+        "id": "mulai",
+        "teks": "Pada suatu hari di sebuah desa yang damai, hiduplah Mbok Sirni yang menemukan mentimun emas berkilau di ladangnya. Di dalamnya, ada seorang bayi perempuan cantik yang dinamai Timun Mas. Kini, Timun Mas sudah tumbuh menjadi anak yang cerdas dan ceria. Tiba-tiba, bumi bergetar! Raksasa hijau raksasa datang melangkah mendekati pondok mereka. Apa yang harus dilakukan Timun Mas?",
+        "pilihan": [
+          {
+            "teks": "🏃 Lari ke arah hutan membawa 4 bungkusan wasiat dari ibu",
+            "idTujuan": "hutan"
+          },
+          {
+            "teks": "🤝 Berdiri tegak, tersenyum ramah, dan sapa sang raksasa",
+            "idTujuan": "bicara"
+          }
+        ]
+      },
+      {
+        "id": "hutan",
+        "teks": "Timun Mas berlari lincah menembus pepohonan rindang. Dari kejauhan terdengar suara langkah raksasa berdebum: DUM! DUM! DUM! Di depan Timun Mas, jalan setapak terbelah dua: satu menuju jurang terjal dan satu lagi menuju tebing sungai deras.",
+        "pilihan": [
+          {
+            "teks": "🌱 Lemparkan bungkusan biji mentimun ajaib ke arah jurang",
+            "idTujuan": "ladang_timun"
+          },
+          {
+            "teks": "🌊 Taburkan garam pusaka ke arah aliran sungai",
+            "idTujuan": "sungai"
+          }
+        ]
+      },
+      {
+        "id": "bicara",
+        "teks": "Dengan penuh keberanian, Timun Mas melambaikan tangan kecilnya dan menyapa: 'Halo Paman Raksasa! Mengapa raut wajahmu tampak sedih dan lelah?' Sang raksasa tertegun. Belum pernah ada orang yang menyapanya dengan ramah tanpa berteriak ketakutan. Perut raksasa yang besar berbunyi nyaring: KROCOOOK!",
+        "pilihan": [
+          {
+            "teks": "🥕 Ajak raksasa memetik sayur segar bersama di ladang",
+            "idTujuan": "panen_sayur"
+          },
+          {
+            "teks": "🍲 Suguhkan kue lemper hangat dan bacakan resep masakan ibu",
+            "idTujuan": "masak_bersama"
+          }
+        ]
+      },
+      {
+        "id": "ladang_timun",
+        "teks": "Begitu biji mentimun menyentuh tanah, seketika tumbuh sulur-sulur hijau raksasa berbuah ribuan mentimun emas yang segar dan berair! Sang raksasa terbelalak kagum. Ia langsung duduk mencicipi mentimun itu dengan lahap sampai perutnya buncit dan kekenyangan.",
+        "pilihan": [
+          {
+            "teks": "🏡 Segera berjalan pulang ke pelukan Mbok Sirni",
+            "idTujuan": "tamat_damai_kebun"
+          },
+          {
+            "teks": "🥤 Bawakan kendi air minum segar untuk raksasa yang kehausan",
+            "idTujuan": "tamat_sahabat_raksasa"
+          }
+        ]
+      },
+      {
+        "id": "sungai",
+        "teks": "Garam pusaka menyentuh air dan sekejap mengubah sungai menjadi telaga bening yang luas dengan pulau bunga teratai mekar. Sang raksasa berhenti di tepi telaga dan menatap takjub pada bayangan indahnya sendiri di air.",
+        "pilihan": [
+          {
+            "teks": "🌉 Bentangkan terasi ajaib menjadi jembatan pelangi menuju rumah",
+            "idTujuan": "tamat_pulang_selamat"
+          },
+          {
+            "teks": "🚣 Ajak raksasa mendayung perahu daun teratai mengelilingi telaga",
+            "idTujuan": "tamat_sahabat_raksasa"
+          }
+        ]
+      },
+      {
+        "id": "panen_sayur",
+        "teks": "Tangan raksasa yang sebesar pohon kelapa dengan cekatan membantu mencabut singkong dan wortel besar tanpa merusak tanaman lain. Dalam waktu satu jam saja, seisi lumbung desa sudah terisi penuh oleh hasil panen berlimpah!",
+        "pilihan": [
+          {
+            "teks": "🎉 Gelar pesta kenduri sup sayur akbar untuk seluruh warga desa",
+            "idTujuan": "tamat_pahlawan_desa"
+          }
+        ]
+      },
+      {
+        "id": "masak_bersama",
+        "teks": "Di dapur terbuka Mbok Sirni, raksasa belajar memotong labu dengan lembut memakai pisau kayu. Bau wangi rempah sup mengepul ke udara dan memanggil warga desa yang sebelumnya bersembunyi untuk keluar dengan penasaran.",
+        "pilihan": [
+          {
+            "teks": "🍲 Jamu warga desa dan raksasa dengan semangkuk kehangatan bersama",
+            "idTujuan": "tamat_pahlawan_desa"
+          }
+        ]
+      },
+      {
+        "id": "tamat_damai_kebun",
+        "teks": "🏆 AKHIR CERITA: Timun Mas pulang ke rumah dan disambut pelukan Mbok Sirni penuh haru. Sang raksasa berjanji menjadi penjaga ladang sayur desa dari hama dan banjir. Desa mereka kini makmur dan hidup damai selamanya!",
+        "pilihan": []
+      },
+      {
+        "id": "tamat_sahabat_raksasa",
+        "teks": "🌟 AKHIR CERITA: Kebaikan hati Timun Mas meluluhkan hati raksasa! Mereka menjadi sahabat sejati. Setiap sore, raksasa menggendong anak-anak desa di pundaknya sambil memetik buah rambutan di atas bukit.",
+        "pilihan": []
+      },
+      {
+        "id": "tamat_pulang_selamat",
+        "teks": "🌈 AKHIR CERITA: Timun Mas melintasi jembatan pelangi dengan riang gembira dan kembali berkumpul bersama keluarga tercinta. Telaga teratai yang indah itu kini dinamai Danau Timun Mas tempat warga berekreasi.",
+        "pilihan": []
+      },
+      {
+        "id": "tamat_pahlawan_desa",
+        "teks": "🎊 AKHIR CERITA: Prasangka buruk warga desa runtuh oleh kehangatan sepiring sup dan senyuman Timun Mas. Raksasa diangkat menjadi Warga Kehormatan Desa. Timun Mas dikenang sebagai si Cilik Pembawa Damai!",
+        "pilihan": []
+      }
+    ]
+  },
+  {
+    "id": "kancil-buaya",
+    "judul": "Kancil dan Buaya Penjaga Sungai",
+    "asal": "Kalimantan",
+    "ringkasan": "Petualangan cerdik si Kancil menyeberangi sungai sarang buaya demi mencicipi buah rambutan manis di seberang pulau.",
+    "sampul": "🦊",
+    "tema": "Kecerdikan & Kejujuran",
+    "bagianAwal": "mulai",
+    "bagian": [
+      {
+        "id": "mulai",
+        "teks": "Si Kancil yang lincah sedang berjalan-jalan di tepi sungai rimba Kalimantan. Di seberang sungai, ia melihat pohon rambutan hutan yang buahnya lebat merona merah manis! Namun, di sungai itu mengapung kawanan buaya bertubuh besar yang sedang berjemur. Apa siasat Kancil?",
+        "pilihan": [
+          {
+            "teks": "📢 Berseru lantang bahwa ada maklumat penting dari Raja Hutan",
+            "idTujuan": "undangan_raja"
+          },
+          {
+            "teks": "🐢 Dekati Buaya Tua dengan sopan dan ajukan tawaran kerja sama",
+            "idTujuan": "barter"
+          }
+        ]
+      },
+      {
+        "id": "undangan_raja",
+        "teks": "Kepala Buaya Tua menyembul dari riak air dengan sisik berkilat. 'Hai Kancil kurus! Berani sekali kau mengganggu tidur siang kami! Apa urusanmu?' tanya Buaya Tua dengan suara menggelegar.",
+        "pilihan": [
+          {
+            "teks": "🔢 'Raja Hutan memintaku menghitung jumlah buaya untuk pembagian pesta!'",
+            "idTujuan": "hitung_buaya"
+          },
+          {
+            "teks": "👑 Tunjukkan mahkota anyaman daun hijau tanda utusan kehormatan",
+            "idTujuan": "mahkota_palsu"
+          }
+        ]
+      },
+      {
+        "id": "barter",
+        "teks": "Buaya Tua terkejut melihat Kancil membungkuk hormat. Kancil berkata: 'Paman Buaya, buah rambutan di seberang sudah matang. Jika kalian membantuku menyeberang, kita bisa menikmati manisnya buah itu bersama!' Buaya Tua mengusap dagunya berpikir keras.",
+        "pilihan": [
+          {
+            "teks": "🧺 Janjikan dua keranjang penuh rambutan pilihan untuk para buaya",
+            "idTujuan": "janji_keranjang"
+          },
+          {
+            "teks": "🥥 Tawarkan memanjat pohon kelapa gading untuk anak-anak buaya",
+            "idTujuan": "kelapa_muda"
+          }
+        ]
+      },
+      {
+        "id": "hitung_buaya",
+        "teks": "Para buaya terpikat janji hadiah dari Raja Hutan. Mereka berbaris rapi dari tepi sungai sampai ke tebing seberang! Kancil pun melompat lincah dari satu punggung ke punggung lain: 'Satu! Dua! Tiga! Empat!' hingga tiba di tanah seberang.",
+        "pilihan": [
+          {
+            "teks": "🍏 Petik rambutan manis dan lemparkan ke tiap buaya yang berbaris",
+            "idTujuan": "tamat_kancil_bijak"
+          },
+          {
+            "teks": "🏃 Langsung berlari kabur sambil mengejek buaya yang tertipu",
+            "idTujuan": "tamat_kancil_nakal"
+          }
+        ]
+      },
+      {
+        "id": "mahkota_palsu",
+        "teks": "Melihat mahkota daun Kancil yang memancarkan kilau tetesan embun, para buaya percaya ia utusan istana. Mereka bersepakat mendorong batang kayu pohon randu sebagai perahu tumpangan untuk Kancil.",
+        "pilihan": [
+          {
+            "teks": "🛶 Berlayar bersama anak buaya sambil mendendangkan lagu rimba",
+            "idTujuan": "tamat_sahabat_sungai"
+          },
+          {
+            "teks": "🌟 Petik buah di seberang lalu bagi adil saat perahu kembali",
+            "idTujuan": "tamat_kancil_bijak"
+          }
+        ]
+      },
+      {
+        "id": "janji_keranjang",
+        "teks": "Buaya Tua yang bijak tersenyum ramah dan membungkukkan punggungnya. 'Naiklah ke pundakku, Kancil kecil. Kita adalah sesama penghuni hutan yang harus saling membantu.' Kancil menyeberang tanpa cipratan air sedikit pun!",
+        "pilihan": [
+          {
+            "teks": "🌳 Petik rambutan termanis dan turunkan keranjang penuh berkah",
+            "idTujuan": "tamat_sahabat_sungai"
+          }
+        ]
+      },
+      {
+        "id": "kelapa_muda",
+        "teks": "Kancil yang tangkas memanjat pohon kelapa gading di bibir pulau dan menjatuhkan buah kelapa muda ke aliran sungai. Para buaya memecahkan batok kelapa dengan ekor kuat mereka dan menikmati air manis pelepas dahaga.",
+        "pilihan": [
+          {
+            "teks": "🎉 Ajak semua satwa tepi sungai berpesta air kelapa bersama",
+            "idTujuan": "tamat_pesta_sungai"
+          }
+        ]
+      },
+      {
+        "id": "tamat_kancil_bijak",
+        "teks": "🏆 AKHIR CERITA: Kancil membuktikan kecerdikan yang sejati disertai integritas! Seluruh kawanan buaya kekenyangan menikmati rambutan lezat. Sejak hari itu, buaya dan kancil membuat perjanjian persaudaraan rimba.",
+        "pilihan": []
+      },
+      {
+        "id": "tamat_kancil_nakal",
+        "teks": "⚠️ AKHIR CERITA: Kancil memang berhasil makan rambutan kenyang sendirian, tetapi buaya-buaya merasa kecewa dan tak pernah percaya lagi padanya. Kancil menyesal karena persahabatan jauh lebih manis daripada sepohon buah rambutan.",
+        "pilihan": []
+      },
+      {
+        "id": "tamat_sahabat_sungai",
+        "teks": "🌈 AKHIR CERITA: Persahabatan tak terduga tercipta antara si mungil Kancil dan si perkasa Buaya! Sungai yang tadinya sunyi dan menegangkan kini berubah menjadi arena bermain air paling ceria di seluruh rimba raya.",
+        "pilihan": []
+      },
+      {
+        "id": "tamat_pesta_sungai",
+        "teks": "🎊 AKHIR CERITA: Pesta buah kelapa dan rambutan menjadi perayaan tahunan seluruh binatang hutan. Dongeng tentang kerja sama Kancil dan Buaya diceritakan turun-temurun kepada anak-cucu mereka!",
+        "pilihan": []
+      }
+    ]
+  }
+]

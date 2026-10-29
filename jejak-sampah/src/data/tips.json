@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "judul": "Bawa Tas Belanja Sendiri",
+    "deskripsi": "Selalu bawa tas kain atau tote bag saat pergi belanja ke minimarket atau pasar. Satu tas kain bisa menggantikan ratusan kantong plastik sekali pakai.",
+    "kategori": "Plastik",
+    "icon": "🛍️"
+  },
+  {
+    "id": 2,
+    "judul": "Gunakan Tempat Makan Sendiri",
+    "deskripsi": "Bawa kotak makan (lunch box) saat beli makanan di luar. Banyak warung dan restoran sekarang ramah dengan wadah sendiri dari pelanggan.",
+    "kategori": "Plastik",
+    "icon": "🍱"
+  },
+  {
+    "id": 3,
+    "judul": "Pilih Galon Isi Ulang",
+    "deskripsi": "Gunakan galon isi ulang daripada membeli air botol kemasan plastik kecil. Selain mengurangi sampah, harganya jauh lebih hemat untuk penghuni kos.",
+    "kategori": "Plastik",
+    "icon": "💧"
+  },
+  {
+    "id": 4,
+    "judul": "Pisahkan Sampah Sejak Awal",
+    "deskripsi": "Siapkan dua tempat sampah di kamar kos: satu untuk organik (sisa makanan) dan satu untuk non-organik (plastik, kertas). Langkah kecil ini sangat membantu petugas kebersihan.",
+    "kategori": "Umum",
+    "icon": "🗑️"
+  },
+  {
+    "id": 5,
+    "judul": "Kompos Mini dari Sisa Makanan",
+    "deskripsi": "Sisa sayur, kulit buah, dan ampas kopi bisa dijadikan kompos mini dalam ember kecil. Kompos ini bisa digunakan untuk menyuburkan tanaman pot di kamar kos.",
+    "kategori": "Organik",
+    "icon": "🌱"
+  },
+  {
+    "id": 6,
+    "judul": "Cetak Dokumen Seperlunya Saja",
+    "deskripsi": "Sebelum mencetak tugas atau dokumen, tanyakan pada diri sendiri: apakah ini benar-benar perlu dicetak? Simpan file digital atau gunakan fitur anotasi PDF.",
+    "kategori": "Kertas",
+    "icon": "📄"
+  },
+  {
+    "id": 7,
+    "judul": "Gunakan Kedua Sisi Kertas",
+    "deskripsi": "Saat harus mencetak, gunakan pengaturan cetak dua sisi (duplex). Untuk catatan, manfaatkan sisi kosong kertas bekas sebelum membuangnya.",
+    "kategori": "Kertas",
+    "icon": "📋"
+  },
+  {
+    "id": 8,
+    "judul": "Sedotan Bukan dari Plastik",
+    "deskripsi": "Gunakan sedotan bambu, stainless steel, atau sedotan kertas sebagai pengganti sedotan plastik sekali pakai yang menjadi salah satu sampah laut terbanyak.",
+    "kategori": "Plastik",
+    "icon": "🥤"
+  },
+  {
+    "id": 9,
+    "judul": "Beli Makanan Secukupnya",
+    "deskripsi": "Rencanakan menu minggu ini sebelum belanja. Membeli makanan secukupnya mencegah bahan makanan basi dan terbuang, sehingga mengurangi sampah organik secara signifikan.",
+    "kategori": "Organik",
+    "icon": "🥦"
+  },
+  {
+    "id": 10,
+    "judul": "Daur Ulang Kardus dan Majalah",
+    "deskripsi": "Kardus bekas belanja online, majalah lama, dan kertas HVS tidak terpakai bisa dijual ke pengepul atau ditukar jadi poin di beberapa aplikasi daur ulang.",
+    "kategori": "Kertas",
+    "icon": "📦"
+  },
+  {
+    "id": 11,
+    "judul": "Hindari Kemasan Sachet",
+    "deskripsi": "Produk sachet seperti shampo, kopi, dan bumbu instan adalah penghasil sampah plastik terbesar di lingkungan kos. Pilih produk dengan kemasan besar atau isi ulang.",
+    "kategori": "Plastik",
+    "icon": "🧴"
+  },
+  {
+    "id": 12,
+    "judul": "Manfaatkan Aplikasi Jual-Beli Barang Bekas",
+    "deskripsi": "Sebelum membuang barang yang sudah tidak terpakai, coba jual atau donasikan melalui marketplace barang bekas. Ini mengurangi sampah sekaligus bisa menghasilkan uang.",
+    "kategori": "Umum",
+    "icon": "♻️"
+  }
+]

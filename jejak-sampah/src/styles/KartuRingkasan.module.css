@@ -1,0 +1,67 @@
+/* KartuRingkasan.module.css */
+
+.wrapper {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.kartu {
+  background-color: #ffffff;
+  border-radius: 14px;
+  padding: 1.4rem 1.25rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  position: relative;
+  overflow: hidden;
+}
+
+.kartu::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background-color: var(--strip-color, #22c55e);
+}
+
+.kartu.organik  { --strip-color: #22c55e; }
+.kartu.plastik  { --strip-color: #3b82f6; }
+.kartu.kertas   { --strip-color: #f59e0b; }
+.kartu.total    { --strip-color: #8b5cf6; }
+
+.icon {
+  font-size: 1.5rem;
+}
+
+.label {
+  font-size: 0.78rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: #6b7280;
+}
+
+.angka {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-size: 1.75rem;
+  font-weight: 800;
+  color: #1c1c1c;
+  line-height: 1;
+}
+
+.satuan {
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: #9ca3af;
+}
+
+.subInfo {
+  font-size: 0.75rem;
+  color: #6b7280;
+  margin-top: 0.2rem;
+}

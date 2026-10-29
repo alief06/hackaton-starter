@@ -1,0 +1,125 @@
+/* Beranda.module.css */
+
+.hero {
+  background: linear-gradient(160deg, #15803d 0%, #16a34a 50%, #22c55e 100%);
+  padding: 2.5rem 0 2rem;
+  color: #ffffff;
+}
+
+.heroInner {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+.heroTitle {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-size: clamp(1.6rem, 4vw, 2.5rem);
+  font-weight: 800;
+  margin-bottom: 0.4rem;
+}
+
+.heroSub {
+  font-size: 1rem;
+  color: rgba(255,255,255,0.8);
+  max-width: 500px;
+  margin-bottom: 1.5rem;
+}
+
+.heroActions {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.btnPrimary {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.65rem 1.3rem;
+  background-color: #ffffff;
+  color: #15803d;
+  border-radius: 8px;
+  font-weight: 700;
+  font-size: 0.9rem;
+  text-decoration: none;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.btnPrimary:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+.btnSecondary {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.65rem 1.3rem;
+  background-color: rgba(255,255,255,0.15);
+  color: #ffffff;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 0.9rem;
+  text-decoration: none;
+  border: 1px solid rgba(255,255,255,0.3);
+  transition: background-color 0.2s ease;
+}
+
+.btnSecondary:hover {
+  background-color: rgba(255,255,255,0.25);
+  color: #ffffff;
+}
+
+/* --- Konten --- */
+.content {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem 3rem;
+}
+
+.sectionTitle {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: #1c1c1c;
+  margin-bottom: 1rem;
+}
+
+.grafikPlaceholder {
+  background-color: #ffffff;
+  border: 2px dashed #d1fae5;
+  border-radius: 14px;
+  padding: 3rem 1.5rem;
+  text-align: center;
+  color: #9ca3af;
+  margin-top: 1.5rem;
+}
+
+.grafikPlaceholder p {
+  font-size: 0.9rem;
+  margin-top: 0.5rem;
+}
+
+.skorPlaceholder {
+  background: linear-gradient(135deg, #f0fdf4, #dcfce7);
+  border: 1px solid #bbf7d0;
+  border-radius: 14px;
+  padding: 2rem 1.5rem;
+  text-align: center;
+  color: #6b7280;
+  margin-top: 1.5rem;
+}
+
+.divider {
+  border: none;
+  border-top: 1px solid #d1fae5;
+  margin: 2rem 0;
+}
+
+@media (max-width: 600px) {
+  .heroActions {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}

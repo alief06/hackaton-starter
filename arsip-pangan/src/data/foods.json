@@ -1,0 +1,520 @@
+[
+  {
+    "id": "rendang",
+    "nama": "Rendang",
+    "daerah": "Padang, Sumatera Barat",
+    "pulau": "Sumatera",
+    "bahan": [
+      "daging sapi",
+      "santan kelapa",
+      "cabai merah",
+      "bawang merah",
+      "bawang putih",
+      "jahe",
+      "lengkuas",
+      "serai",
+      "daun jeruk",
+      "daun kunyit"
+    ],
+    "sejarah": "Rendang berasal dari tradisi memasak masyarakat Minangkabau di Sumatera Barat yang sudah ada sejak berabad-abad lalu. Makanan ini biasanya disajikan dalam upacara adat, kenduri, dan perayaan hari besar. Pada tahun 2011, CNN International memilih Rendang sebagai makanan terlezat nomor satu di dunia dalam daftar 'World's 50 Most Delicious Foods'.",
+    "caraMembuat": [
+      "Haluskan bumbu: cabai, bawang merah, bawang putih, jahe, dan lengkuas.",
+      "Tumis bumbu halus bersama serai dan daun jeruk hingga harum.",
+      "Masukkan daging sapi yang telah dipotong dadu, aduk hingga berubah warna.",
+      "Tuangkan santan kelapa, masak dengan api sedang sambil terus diaduk.",
+      "Kecilkan api, masak selama 3-4 jam hingga santan mengering dan bumbu meresap.",
+      "Masak terus hingga daging berwarna coklat gelap dan kering sesuai selera."
+    ],
+    "tingkatKesulitan": "Sulit"
+  },
+  {
+    "id": "gado-gado",
+    "nama": "Gado-Gado",
+    "daerah": "Betawi, DKI Jakarta",
+    "pulau": "Jawa",
+    "bahan": [
+      "tahu",
+      "tempe",
+      "kentang",
+      "kangkung",
+      "kacang panjang",
+      "tauge",
+      "telur rebus",
+      "ketimun",
+      "kerupuk",
+      "kacang tanah",
+      "cabai",
+      "gula merah",
+      "asam jawa"
+    ],
+    "sejarah": "Gado-gado adalah hidangan khas Betawi yang telah ada sejak zaman kolonial Belanda. Namanya berasal dari kata 'gado' yang berarti makan tanpa nasi dalam bahasa Betawi, mencerminkan kebiasaan masyarakat yang memakannya sebagai hidangan utama pengganti nasi. Hidangan ini dikenal sebagai salah satu makanan vegetarian khas Indonesia yang kaya protein.",
+    "caraMembuat": [
+      "Rebus kangkung, kacang panjang, dan tauge masing-masing hingga matang, tiriskan.",
+      "Goreng tahu, tempe, dan rebus kentang hingga matang.",
+      "Buat saus kacang: haluskan kacang tanah goreng, cabai, bawang putih, gula merah, dan asam jawa, larutkan dengan air panas.",
+      "Tata sayuran, tahu, tempe, kentang, dan telur di atas piring.",
+      "Siramkan saus kacang di atasnya.",
+      "Tambahkan kerupuk sebagai pelengkap."
+    ],
+    "tingkatKesulitan": "Mudah"
+  },
+  {
+    "id": "pempek",
+    "nama": "Pempek",
+    "daerah": "Palembang, Sumatera Selatan",
+    "pulau": "Sumatera",
+    "bahan": [
+      "ikan tenggiri",
+      "tepung sagu",
+      "telur",
+      "air",
+      "bawang putih",
+      "garam",
+      "gula merah",
+      "asam jawa",
+      "cabai",
+      "ebi"
+    ],
+    "sejarah": "Pempek adalah makanan khas Palembang yang konon sudah ada sejak abad ke-16, diciptakan oleh seorang penjual ikan keturunan Tionghoa yang bernama Apek. Nama 'pempek' berasal dari panggilan 'Apek' yang merupakan sapaan untuk pria tua keturunan Tionghoa. Pempek kini telah menjadi ikon kuliner Sumatera Selatan dan dikenal di seluruh Indonesia.",
+    "caraMembuat": [
+      "Haluskan ikan tenggiri yang telah dibersihkan, campur dengan bawang putih dan garam.",
+      "Tambahkan tepung sagu dan telur, uleni hingga adonan kalis dan tidak lengket.",
+      "Bentuk adonan sesuai jenis pempek (lenjer, kapal selam, atau adaan).",
+      "Rebus pempek dalam air mendidih hingga mengapung, angkat dan tiriskan.",
+      "Goreng pempek hingga berwarna keemasan dan renyah.",
+      "Buat cuka: rebus gula merah, asam jawa, cabai, ebi, dan air hingga mengental.",
+      "Sajikan pempek dengan siraman cuka."
+    ],
+    "tingkatKesulitan": "Sedang"
+  },
+  {
+    "id": "papeda",
+    "nama": "Papeda",
+    "daerah": "Sorong, Papua Barat",
+    "pulau": "Papua",
+    "bahan": [
+      "sagu",
+      "air",
+      "ikan kuah kuning",
+      "kunyit",
+      "bawang merah",
+      "bawang putih",
+      "jahe",
+      "jeruk nipis"
+    ],
+    "sejarah": "Papeda adalah makanan pokok masyarakat Papua yang terbuat dari tepung sagu. Sagu telah menjadi sumber karbohidrat utama masyarakat Papua dan Maluku selama ribuan tahun, jauh sebelum beras masuk ke wilayah tersebut. Papeda biasanya disantap bersama ikan kuah kuning yang berbumbu kunyit, membentuk kombinasi makanan yang kaya nutrisi dan memiliki nilai budaya tinggi.",
+    "caraMembuat": [
+      "Larutkan tepung sagu dalam air dingin hingga tidak bergerindil.",
+      "Didihkan air dalam panci terpisah.",
+      "Tuangkan larutan sagu ke dalam air mendidih sambil terus diaduk cepat.",
+      "Masak hingga adonan menjadi transparan dan lengket seperti lem.",
+      "Buat ikan kuah kuning: tumis bumbu (bawang, kunyit, jahe), masukkan ikan, tambahkan air dan masak hingga matang.",
+      "Sajikan papeda panas bersama kuah ikan kuning."
+    ],
+    "tingkatKesulitan": "Sedang"
+  },
+  {
+    "id": "bika-ambon",
+    "nama": "Bika Ambon",
+    "daerah": "Medan, Sumatera Utara",
+    "pulau": "Sumatera",
+    "bahan": [
+      "tepung tapioka",
+      "telur",
+      "santan",
+      "gula pasir",
+      "ragi",
+      "daun pandan",
+      "serai",
+      "daun jeruk"
+    ],
+    "sejarah": "Meskipun namanya mengandung kata 'Ambon', bika ambon sebenarnya merupakan kue khas Kota Medan, Sumatera Utara. Nama 'Ambon' diduga berasal dari nama jalan Ambon di Medan tempat kue ini pertama kali dijual secara komersial. Bika ambon terkenal dengan teksturnya yang berpori-pori seperti sarang lebah dan cita rasanya yang manis legit.",
+    "caraMembuat": [
+      "Rebus santan bersama serai, daun pandan, dan daun jeruk hingga mendidih, dinginkan.",
+      "Kocok telur dan gula hingga mengembang dan berwarna pucat.",
+      "Larutkan ragi dalam sedikit air hangat, diamkan 5 menit.",
+      "Campur tepung tapioka dengan larutan ragi, santan rebus, dan kocokan telur.",
+      "Aduk rata, tutup dan fermentasi selama 1-2 jam hingga adonan berbuih.",
+      "Tuang ke loyang yang sudah dipanaskan, panggang dalam oven 180°C selama 45-60 menit."
+    ],
+    "tingkatKesulitan": "Sulit"
+  },
+  {
+    "id": "soto-betawi",
+    "nama": "Soto Betawi",
+    "daerah": "Betawi, DKI Jakarta",
+    "pulau": "Jawa",
+    "bahan": [
+      "daging sapi",
+      "jeroan sapi",
+      "santan",
+      "susu",
+      "tomat",
+      "kentang",
+      "bawang goreng",
+      "emping",
+      "bawang merah",
+      "bawang putih",
+      "kunyit",
+      "jahe",
+      "lengkuas"
+    ],
+    "sejarah": "Soto Betawi merupakan kuliner khas masyarakat Betawi, penduduk asli Jakarta. Keunikan soto ini terletak pada penggunaan santan dan susu sebagai bahan kuahnya, menciptakan cita rasa yang gurih dan kaya. Soto Betawi berbeda dari soto daerah lain karena menggunakan jeroan sapi dan memiliki kuah yang lebih kental.",
+    "caraMembuat": [
+      "Rebus daging dan jeroan sapi hingga empuk, potong dadu.",
+      "Tumis bumbu halus (bawang merah, bawang putih, kunyit, jahe) hingga harum.",
+      "Masukkan bumbu ke dalam kaldu rebusan daging.",
+      "Tambahkan santan dan susu, masak dengan api kecil sambil diaduk.",
+      "Goreng kentang yang telah dipotong dadu, siapkan tomat potong.",
+      "Sajikan dengan nasi atau lontong, taburi bawang goreng dan emping."
+    ],
+    "tingkatKesulitan": "Sedang"
+  },
+  {
+    "id": "gudeg",
+    "nama": "Gudeg",
+    "daerah": "Yogyakarta",
+    "pulau": "Jawa",
+    "bahan": [
+      "nangka muda",
+      "santan",
+      "gula merah",
+      "bawang merah",
+      "bawang putih",
+      "kemiri",
+      "ketumbar",
+      "lengkuas",
+      "daun salam",
+      "daun jati"
+    ],
+    "sejarah": "Gudeg adalah makanan tradisional khas Yogyakarta dan Jawa Tengah yang telah ada sejak zaman Kerajaan Mataram Islam pada abad ke-16. Warna coklat kemerahan pada gudeg berasal dari daun jati yang digunakan dalam proses memasak. Yogyakarta bahkan mendapat julukan 'Kota Gudeg' karena makanan ini menjadi identitas kuliner utama kota tersebut.",
+    "caraMembuat": [
+      "Rebus nangka muda yang telah dipotong bersama daun jati hingga nangka matang dan berwarna kecoklatan.",
+      "Haluskan bumbu: bawang merah, bawang putih, kemiri, ketumbar.",
+      "Tumis bumbu halus bersama lengkuas dan daun salam.",
+      "Masukkan nangka yang telah direbus ke dalam tumisan bumbu.",
+      "Tambahkan gula merah dan santan, masak dengan api kecil selama 3-4 jam.",
+      "Aduk sesekali hingga kuah mengering dan bumbu meresap."
+    ],
+    "tingkatKesulitan": "Sulit"
+  },
+  {
+    "id": "coto-makassar",
+    "nama": "Coto Makassar",
+    "daerah": "Makassar, Sulawesi Selatan",
+    "pulau": "Sulawesi",
+    "bahan": [
+      "daging sapi",
+      "jeroan sapi",
+      "kacang tanah",
+      "serai",
+      "lengkuas",
+      "bawang merah",
+      "bawang putih",
+      "ketumbar",
+      "jintan",
+      "merica"
+    ],
+    "sejarah": "Coto Makassar adalah sup tradisional khas Sulawesi Selatan yang konon telah ada sejak abad ke-16 pada masa Kerajaan Gowa. Hidangan ini awalnya dibuat untuk para bangsawan kerajaan sebelum akhirnya menjadi makanan rakyat yang populer. Coto Makassar dibuat dengan cara memasak daging dan jeroan sapi dalam bumbu rempah selama berjam-jam hingga kuahnya kaya rasa.",
+    "caraMembuat": [
+      "Cuci bersih dan rebus jeroan sapi hingga matang, potong-potong.",
+      "Sangrai kacang tanah hingga matang, haluskan.",
+      "Haluskan bumbu: bawang merah, bawang putih, ketumbar, jintan, dan merica.",
+      "Tumis bumbu halus bersama serai dan lengkuas hingga harum.",
+      "Masukkan daging dan jeroan, aduk rata dengan bumbu.",
+      "Tambahkan kacang tanah halus dan air secukupnya, masak 1-2 jam.",
+      "Sajikan dengan ketupat dan sambal tauco."
+    ],
+    "tingkatKesulitan": "Sedang"
+  },
+  {
+    "id": "bubur-manado",
+    "nama": "Bubur Manado (Tinutuan)",
+    "daerah": "Manado, Sulawesi Utara",
+    "pulau": "Sulawesi",
+    "bahan": [
+      "beras",
+      "labu kuning",
+      "ubi jalar",
+      "jagung manis",
+      "bayam",
+      "kangkung",
+      "daun kemangi",
+      "serai",
+      "daun pandan"
+    ],
+    "sejarah": "Tinutuan atau Bubur Manado adalah makanan khas Sulawesi Utara yang dikenal sebagai makanan sehat karena kaya akan sayuran. Makanan ini menjadi simbol keberagaman dan kerukunan masyarakat Manado karena dapat dinikmati oleh berbagai kalangan, termasuk vegetarian. Pemerintah Kota Manado menetapkan Tinutuan sebagai makanan resmi kota pada tahun 2004.",
+    "caraMembuat": [
+      "Masak beras dengan air banyak hingga menjadi bubur.",
+      "Masukkan labu kuning dan ubi jalar yang sudah dipotong dadu, masak hingga lunak.",
+      "Tambahkan jagung manis pipil dan serai, masak hingga matang.",
+      "Masukkan bayam, kangkung, dan daun kemangi menjelang matang.",
+      "Aduk rata, tambahkan garam secukupnya.",
+      "Sajikan hangat dengan ikan asin goreng, sambal, dan kerupuk."
+    ],
+    "tingkatKesulitan": "Mudah"
+  },
+  {
+    "id": "sate-lilit",
+    "nama": "Sate Lilit",
+    "daerah": "Bali",
+    "pulau": "Bali",
+    "bahan": [
+      "ikan tenggiri",
+      "kelapa parut",
+      "santan",
+      "bawang merah",
+      "bawang putih",
+      "cabai",
+      "kunyit",
+      "jahe",
+      "serai",
+      "daun jeruk",
+      "gula merah"
+    ],
+    "sejarah": "Sate Lilit merupakan sate khas Bali yang berbeda dari sate pada umumnya karena dagingnya dililitkan pada batang serai atau bambu pipih, bukan ditusuk. Makanan ini selalu hadir dalam setiap upacara keagamaan Hindu di Bali, terutama upacara besar seperti pernikahan adat dan odalan. Penggunaan batang serai sebagai tusuk memberikan aroma khas yang mempererkaya cita rasa sate.",
+    "caraMembuat": [
+      "Haluskan bumbu base genep: bawang, cabai, kunyit, jahe, dan rempah lainnya.",
+      "Campur ikan tenggiri yang telah dihaluskan dengan kelapa parut, santan, dan bumbu halus.",
+      "Aduk adonan hingga tercampur rata dan cukup padat.",
+      "Ambil segenggam adonan, lilitkan pada batang serai atau bambu pipih.",
+      "Padatkan dan rapikan lilitan adonan pada tusukan.",
+      "Panggang di atas bara api atau teflon dengan sedikit minyak hingga matang kecoklatan."
+    ],
+    "tingkatKesulitan": "Sedang"
+  },
+  {
+    "id": "mpek-mpek",
+    "nama": "Mpek-Mpek (Kapal Selam)",
+    "daerah": "Palembang, Sumatera Selatan",
+    "pulau": "Sumatera",
+    "bahan": [
+      "ikan tenggiri",
+      "tepung sagu",
+      "telur ayam",
+      "air",
+      "garam",
+      "cuka mpek-mpek",
+      "gula merah",
+      "asam jawa",
+      "ebi",
+      "cabai"
+    ],
+    "sejarah": "Mpek-Mpek Kapal Selam adalah varian pempek yang paling populer, dinamai demikian karena telur yang tersembunyi di dalamnya seperti kapal selam. Varian ini diciptakan para pedagang pempek di Palembang sebagai inovasi dari pempek biasa. Mpek-mpek kapal selam kini menjadi salah satu oleh-oleh paling dicari dari Palembang.",
+    "caraMembuat": [
+      "Haluskan ikan tenggiri, campur dengan garam dan air.",
+      "Tambahkan tepung sagu sedikit demi sedikit, uleni hingga adonan kalis.",
+      "Ambil adonan secukupnya, pipihkan dan beri telur mentah di tengahnya.",
+      "Tutup adonan hingga telur terbungkus sempurna dan tidak bocor.",
+      "Rebus dalam air mendidih hingga mengapung, angkat dan tiriskan.",
+      "Goreng hingga kulit luar berwarna keemasan.",
+      "Sajikan dengan cuka yang terbuat dari rebusan gula merah, asam jawa, cabai, dan ebi."
+    ],
+    "tingkatKesulitan": "Sedang"
+  },
+  {
+    "id": "nasi-liwet",
+    "nama": "Nasi Liwet",
+    "daerah": "Solo, Jawa Tengah",
+    "pulau": "Jawa",
+    "bahan": [
+      "beras",
+      "santan",
+      "daun pandan",
+      "serai",
+      "daun salam",
+      "bawang merah",
+      "bawang putih",
+      "ayam",
+      "telur",
+      "labu siam",
+      "tempe"
+    ],
+    "sejarah": "Nasi Liwet Solo merupakan hidangan tradisional khas Kota Solo, Jawa Tengah, yang berbeda dari nasi liwet Sunda. Nasi ini dimasak dengan santan dan rempah sehingga memiliki aroma harum yang khas. Nasi Liwet Solo biasanya disajikan di atas daun pisang dan dimakan bersama-sama (bancakan), mencerminkan semangat kebersamaan masyarakat Jawa.",
+    "caraMembuat": [
+      "Cuci beras bersih, masak dalam santan yang telah dicampur daun pandan, serai, dan daun salam.",
+      "Masak dengan api kecil hingga nasi matang dan santan meresap.",
+      "Rebus ayam dengan bumbu kuning (bawang, kunyit, jahe) hingga matang, suwir.",
+      "Buat areh: masak santan kental dengan daun pandan hingga berminyak.",
+      "Rebus telur hingga matang, kupas.",
+      "Tata nasi di atas daun pisang, lengkapi dengan suwiran ayam, telur, labu siam, tempe, dan siramkan areh."
+    ],
+    "tingkatKesulitan": "Sedang"
+  },
+  {
+    "id": "kerak-telor",
+    "nama": "Kerak Telor",
+    "daerah": "Betawi, DKI Jakarta",
+    "pulau": "Jawa",
+    "bahan": [
+      "beras ketan putih",
+      "telur ayam atau bebek",
+      "ebi",
+      "kelapa parut sangrai",
+      "bawang merah goreng",
+      "cabai merah",
+      "kencur",
+      "jahe",
+      "merica"
+    ],
+    "sejarah": "Kerak Telor adalah makanan tradisional Betawi yang sudah ada sejak zaman penjajahan Belanda dan kerap dijumpai di perayaan Lebaran Betawi. Makanan ini dibuat secara unik dengan cara memasak menggunakan bara api dari arang, dan wajan dibalik untuk memanggang bagian atas makanan. Kerak Telor kini menjadi salah satu ikon kuliner Jakarta yang selalu hadir di Pekan Raya Jakarta.",
+    "caraMembuat": [
+      "Rendam beras ketan semalaman, tiriskan.",
+      "Panaskan wajan kecil di atas arang, masukkan sedikit minyak.",
+      "Masukkan beras ketan, ratakan, tuangkan kocokan telur di atasnya.",
+      "Tambahkan ebi, kelapa sangrai, dan bumbu halus (cabai, kencur, jahe, merica).",
+      "Balik wajan ke atas bara api agar bagian atas ikut matang.",
+      "Taburi bawang goreng dan kelapa sangrai, sajikan langsung dari wajan."
+    ],
+    "tingkatKesulitan": "Sulit"
+  },
+  {
+    "id": "soto-banjar",
+    "nama": "Soto Banjar",
+    "daerah": "Banjarmasin, Kalimantan Selatan",
+    "pulau": "Kalimantan",
+    "bahan": [
+      "ayam kampung",
+      "bihun",
+      "telur",
+      "perkedel",
+      "kentang",
+      "bawang merah",
+      "bawang putih",
+      "kayu manis",
+      "cengkeh",
+      "pala",
+      "kapulaga"
+    ],
+    "sejarah": "Soto Banjar adalah hidangan khas suku Banjar dari Kalimantan Selatan yang memiliki keunikan berupa penggunaan rempah-rempah khas seperti kayu manis, cengkeh, dan pala dalam kuahnya. Hidangan ini mencerminkan pengaruh perdagangan rempah di wilayah Kalimantan sejak berabad-abad lalu. Soto Banjar berbeda dari soto lain karena kuahnya yang bening namun kaya rasa rempah.",
+    "caraMembuat": [
+      "Rebus ayam kampung utuh hingga empuk, angkat dan suwir dagingnya, simpan kaldu.",
+      "Tumis bawang merah dan bawang putih, masukkan kayu manis, cengkeh, pala, dan kapulaga.",
+      "Masukkan tumisan ke dalam kaldu ayam, rebus 15 menit.",
+      "Saring kuah, kembalikan ke panci.",
+      "Siapkan bihun yang telah direbus, suwiran ayam, perkedel kentang, dan telur rebus.",
+      "Tuang kuah panas ke atas bahan tersebut, taburi bawang goreng."
+    ],
+    "tingkatKesulitan": "Sedang"
+  },
+  {
+    "id": "tumpeng",
+    "nama": "Nasi Tumpeng",
+    "daerah": "Jawa",
+    "pulau": "Jawa",
+    "bahan": [
+      "beras",
+      "kunyit",
+      "santan",
+      "daun pandan",
+      "ayam goreng",
+      "tempe orek",
+      "perkedel jagung",
+      "urap sayuran",
+      "telur dadar",
+      "sambal goreng ati"
+    ],
+    "sejarah": "Nasi Tumpeng adalah sajian nasi berbentuk kerucut yang merupakan simbol budaya Jawa yang sarat makna filosofis. Bentuk kerucut melambangkan Gunung Mahameru, tempat tinggal para dewa dalam kepercayaan Hindu-Jawa. Tumpeng disajikan dalam berbagai perayaan seperti ulang tahun, syukuran, dan upacara adat sebagai ungkapan rasa syukur kepada Tuhan.",
+    "caraMembuat": [
+      "Masak beras dengan air kunyit, santan, dan daun pandan hingga menjadi nasi kuning.",
+      "Cetak nasi panas dalam cetakan tumpeng atau kerucut dari daun pisang.",
+      "Balik cetakan di atas tampah yang dialasi daun pisang.",
+      "Siapkan lauk-pauk pelengkap: ayam goreng, tempe orek, perkedel, urap, telur, dan sambal.",
+      "Tata lauk-pauk mengelilingi tumpeng nasi.",
+      "Hias dengan irisan cabai dan daun bawang sesuai kreativitas."
+    ],
+    "tingkatKesulitan": "Sulit"
+  },
+  {
+    "id": "mie-aceh",
+    "nama": "Mie Aceh",
+    "daerah": "Banda Aceh, Aceh",
+    "pulau": "Sumatera",
+    "bahan": [
+      "mie kuning tebal",
+      "daging sapi atau seafood",
+      "bawang merah",
+      "bawang putih",
+      "cabai merah",
+      "kunyit",
+      "jahe",
+      "jintan",
+      "kapulaga",
+      "tomat",
+      "kol",
+      "tauge"
+    ],
+    "sejarah": "Mie Aceh adalah masakan mie pedas khas dari provinsi Aceh yang memiliki pengaruh kuat dari bumbu dan rempah Timur Tengah dan India, mencerminkan sejarah perdagangan maritim Aceh sebagai kerajaan dagang yang kuat. Mie ini dikenal dengan cita rasanya yang kuat, pedas, dan kaya rempah. Mie Aceh tersedia dalam dua versi: goreng dan berkuah.",
+    "caraMembuat": [
+      "Haluskan bumbu: bawang merah, bawang putih, cabai, kunyit, jahe, jintan, dan kapulaga.",
+      "Tumis bumbu halus hingga harum dan matang.",
+      "Masukkan daging sapi atau seafood, aduk dan masak hingga berubah warna.",
+      "Tambahkan tomat, kol, dan tauge, aduk rata.",
+      "Masukkan mie kuning yang telah direndam air panas, aduk hingga tercampur.",
+      "Tambahkan kecap manis, garam, dan kaldu secukupnya.",
+      "Sajikan dengan acar mentimun, bawang goreng, dan emping."
+    ],
+    "tingkatKesulitan": "Sedang"
+  },
+  {
+    "id": "rujak-cingur",
+    "nama": "Rujak Cingur",
+    "daerah": "Surabaya, Jawa Timur",
+    "pulau": "Jawa",
+    "bahan": [
+      "cingur sapi",
+      "tahu goreng",
+      "tempe goreng",
+      "lontong",
+      "kangkung",
+      "tauge",
+      "kacang tanah",
+      "petis udang",
+      "gula merah",
+      "cabai",
+      "asam jawa",
+      "pisang batu"
+    ],
+    "sejarah": "Rujak Cingur adalah makanan khas Surabaya, Jawa Timur, yang sangat unik karena menggunakan cingur (mulut atau moncong sapi) sebagai bahan utamanya. Petis udang yang digunakan sebagai bumbu utama juga merupakan ciri khas tersendiri yang membedakannya dari rujak daerah lain. Kata 'cingur' dalam bahasa Jawa berarti 'mulut' atau 'bibir', dan penggunaan bagian ini dalam masakan mencerminkan tradisi memasak masyarakat Jawa yang memanfaatkan seluruh bagian hewan.",
+    "caraMembuat": [
+      "Rebus cingur sapi dalam air panas hingga lunak dan tidak berbau, potong-potong.",
+      "Goreng tahu dan tempe hingga kecoklatan, potong dadu.",
+      "Rebus kangkung dan tauge sebentar, tiriskan.",
+      "Buat bumbu: haluskan kacang tanah goreng, petis udang, gula merah, cabai, dan asam jawa.",
+      "Tambahkan pisang batu muda yang diparut ke dalam bumbu, aduk rata.",
+      "Tata semua bahan di piring, tuangkan bumbu kacang-petis di atasnya.",
+      "Sajikan dengan kerupuk dan lontong."
+    ],
+    "tingkatKesulitan": "Sedang"
+  },
+  {
+    "id": "rawon",
+    "nama": "Rawon",
+    "daerah": "Surabaya, Jawa Timur",
+    "pulau": "Jawa",
+    "bahan": [
+      "daging sapi",
+      "keluak",
+      "bawang merah",
+      "bawang putih",
+      "daun jeruk",
+      "serai",
+      "kunyit",
+      "ketumbar",
+      "lengkuas",
+      "tauge pendek",
+      "sambal terasi",
+      "telur asin"
+    ],
+    "sejarah": "Rawon adalah hidangan sup daging berkuah hitam pekat khas Jawa Timur yang telah dicatat dalam prasasti Taji peninggalan era Mataram Kuno abad ke-10 dengan sebutan rarawwan. Warna hitam khas kuah rawon berasal dari buah kluwek (keluak) yang diolah khusus. Rawon sering dinobatkan sebagai salah satu sup terenak di dunia versi TasteAtlas.",
+    "caraMembuat": [
+      "Rebus daging sapi sandung lamur dalam air hingga empuk, potong dadu, dan saring kaldunya.",
+      "Pecahkan buah kluwek, ambil daging buahnya lalu rendam air panas dan haluskan.",
+      "Haluskan bumbu: bawang merah, bawang putih, kunyit, ketumbar, dan lengkuas.",
+      "Tumis bumbu halus bersama kluwek, serai memar, dan daun jeruk hingga harum dan matang.",
+      "Masukkan tumisan bumbu ke dalam panci kaldu daging, aduk rata dan masak hingga meresap.",
+      "Sajikan rawon panas bersama nasi, tauge pendek mentah, telur asin, kerupuk udang, dan sambal terasi."
+    ],
+    "tingkatKesulitan": "Sedang"
+  }
+]

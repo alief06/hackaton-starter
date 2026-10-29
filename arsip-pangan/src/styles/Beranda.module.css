@@ -1,0 +1,132 @@
+/* Beranda.module.css */
+
+.hero {
+  background: linear-gradient(160deg, #c0392b 0%, #922b21 60%, #7b241c 100%);
+  padding: 3rem 0 2.5rem;
+  text-align: center;
+  color: #ffffff;
+}
+
+.heroTitle {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: clamp(1.8rem, 5vw, 2.8rem);
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+  line-height: 1.15;
+}
+
+.heroSub {
+  font-size: 1rem;
+  color: rgba(255,255,255,0.8);
+  max-width: 480px;
+  margin: 0 auto 1.5rem;
+}
+
+.heroStats {
+  display: flex;
+  justify-content: center;
+  gap: 2.5rem;
+  flex-wrap: wrap;
+}
+
+.statItem {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.statAngka {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 2rem;
+  font-weight: 700;
+  color: #f39c12;
+}
+
+.statLabel {
+  font-size: 0.78rem;
+  color: rgba(255,255,255,0.75);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* ---- Filter area (placeholder) ---- */
+.filterBar {
+  background-color: #ffffff;
+  border-bottom: 1px solid #e8d5c4;
+  padding: 1rem 0;
+  position: sticky;
+  top: 64px;
+  z-index: 10;
+}
+
+.filterBarInner {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.filterLabel {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #6b6b6b;
+  white-space: nowrap;
+}
+
+.filterPlaceholder {
+  flex: 1;
+  min-width: 200px;
+  padding: 0.5rem 0.9rem;
+  border: 1px solid #e8d5c4;
+  border-radius: 8px;
+  font-size: 0.85rem;
+  color: #aaa;
+  background: #fdf6f0;
+  cursor: not-allowed;
+}
+
+/* ---- Daftar Makanan ---- */
+.section {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem 3rem;
+}
+
+.sectionHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1.25rem;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.sectionTitle {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 1.4rem;
+  color: #2c2c2c;
+}
+
+.jumlahLabel {
+  font-size: 0.85rem;
+  color: #6b6b6b;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.25rem;
+}
+
+@media (max-width: 600px) {
+  .filterBarInner {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  .grid {
+    grid-template-columns: 1fr;
+  }
+}
